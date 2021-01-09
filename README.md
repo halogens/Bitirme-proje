@@ -1,4 +1,4 @@
-# Proje-odevim
+# Bitirme Proje
 
 <b>Anıl Can SAATÇI 16060523 Makine Proje</b>
 
