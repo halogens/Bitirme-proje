@@ -9,7 +9,7 @@ WiFiClient client;
 
 char auth[] = "8af83da6bc31489b9eec51b8f0bc3890";
 char* ssid[] = {"Redmi Note 9","Tilgin-ku5QAdxxSxK6"};
-char* pass[] = {"anilharikadir","dyDyuBt9hTbkR"};
+char* pass[] = {"anilharikadir","ugjhfghfklhg"};
 int check_out = 0;
 int check_in = 0;
 boolean evde_miyim = true;
